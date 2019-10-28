@@ -6,6 +6,6 @@
   
   $x = getNiceDuration($t) ;
   
-  printf ( "R: %s \n" ; 
+  printf ( "R: %s \n" ) ; 
   
   ?>
