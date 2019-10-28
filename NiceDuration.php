@@ -1,3 +1,5 @@
+<?php
+
 function getNiceDuration($durationInSeconds) {
 
   $duration = '';
@@ -23,3 +25,4 @@ function getNiceDuration($durationInSeconds) {
   return $duration;
 }
 
+?>
