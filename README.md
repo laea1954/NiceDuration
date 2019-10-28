@@ -13,4 +13,4 @@ Others will be implemented
 
 I do not remember from where I got NiceDuration.php originally, since it has no comments.
 
-I am trying to figure it out.
+I am trying to figure it out so I can give the proper credits
